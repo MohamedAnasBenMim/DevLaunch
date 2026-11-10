@@ -1,0 +1,6 @@
+{
+  "services_scaffolded": 25,
+  "median_onboarding_ms": 1.26,
+  "p95_onboarding_ms": 1.452,
+  "median_environment_setup_ms": 0.05
+}
